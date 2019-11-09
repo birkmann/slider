@@ -16,19 +16,19 @@ body {
 }
 
 header.main {
-	background: #333;
+	background: #eee;
 	padding: 20px 0;
 }
 
 .logo {
 	font-size: 1.5em;
-	color: #000;
+	color: #fff;
 	text-decoration: none;
 	transition: color 0.25s ease-in-out;
 }
 
 .logo:hover {
-	color: #fff;
+	color: #333;
 }
 
 footer.main {
